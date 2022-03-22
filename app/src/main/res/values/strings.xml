@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Attendance Capturing Application</string>
+    <string name="title_activity_camera_screen">CameraScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string-array name="departmentnames">
+        <item>Testing Team</item>
+        <item>Development Team</item>
+        <item>Marketing Team</item>
+        <item>Finance Team</item>
+        <item>Human Resources</item>
+    </string-array>
+
+    <string-array name="rolenames">
+        <item>Debugger</item>
+        <item>Tester</item>
+        <item>Software Engineer</item>
+        <item>Associate Engineer</item>
+        <item>Brand Director</item>
+        <item>Creative Director</item>
+        <item>Treasurer</item>
+        <item>Internal Auditor</item>
+        <item>Recruitment</item>
+        <item>Employment Relation</item>
+    </string-array>
+</resources>
